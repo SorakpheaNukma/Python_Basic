@@ -1,16 +1,10 @@
 import math
-
+#creat by: Mao Sorakpheanukma
 
 def calculate_circle_area(radius):
-    """
-    Calculate the area of a circle based on its radius.
+    #Calculate the area of a circle based on its radius.
 
-    Parameters:
-    - radius (float): The radius of the circle.
 
-    Returns:
-    - float: The area of the circle.
-    """
     if radius < 0:
         raise ValueError("Radius cannot be negative.")
 

@@ -1,3 +1,4 @@
+#creat by: Mao Sorakpheanukma
 def xoa_gia_tri(danh_sach, *gia_tri_can_xoa):
 
     ket_qua = [so for so in danh_sach if so not in gia_tri_can_xoa]

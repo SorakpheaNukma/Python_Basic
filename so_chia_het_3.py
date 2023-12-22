@@ -1,3 +1,4 @@
+#creat by: Mao Sorakpheanukma
 def loc_so_chia_het_cho_3(danh_sach):
 
     ket_qua = [so for so in danh_sach if so % 3 == 0]
